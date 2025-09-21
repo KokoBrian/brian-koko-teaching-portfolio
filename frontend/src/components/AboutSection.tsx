@@ -86,11 +86,11 @@ const AboutSection = () => {
             <div className="relative inline-block mb-6">
               <img 
                 src={teacherHeadshot} 
-                alt="Sarah Chen - Computer Science and Mathematics Teacher"
+                alt="Brian Koko - Computer Science and Mathematics Teacher"
                 className="w-80 h-80 object-cover rounded-2xl shadow-large mx-auto lg:mx-0"
               />
               <div className="absolute -bottom-4 -right-4 bg-accent text-accent-foreground px-4 py-2 rounded-xl shadow-lg">
-                <span className="font-semibold">8+ Years Teaching</span>
+                <span className="font-semibold">8+ Months Teaching</span>
               </div>
             </div>
             
